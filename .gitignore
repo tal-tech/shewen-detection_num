@@ -1,0 +1,2 @@
+model/rhetoric_model/Shewen_PretrainedBert_1e-05_32_None.pt
+model/bert_chinese_wwm_ext_pytorch/pytorch_model.bin
